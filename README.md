@@ -4,8 +4,8 @@
 <p align="center">
     <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/stargazers"><img src="https://img.shields.io/github/stars/ThiagoRalmeida2/ThiagoRalmeida2.svg?logo=github"></a>
+    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/network/members"><img src="https://img.shields.io/github/forks/ThiagoRalmeida2/ThiagoRalmeida2.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ThiagoRALmeida2.ThiagoRAlmeida2" alt="visitors"/>   
 </p>
 
@@ -29,18 +29,17 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
+<!--   green snake -->
+![ThiagoRalmeida2's github activity graph](https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                                  | .                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![ThiagoRAlmeida2's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&theme=radical&layout=compact) |
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoRAlmeida2"></img>
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:thiagoralmeida23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:thiagoralmeida23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <div align="center">
