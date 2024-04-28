@@ -19,21 +19,20 @@
 <!--   my-skils -->
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
-| Property                                        | Data|
-|-------------------------------------------------|------|
-| **Language / IDE**                              ||
-| **Front-End**                                   ||
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp;|
-| **Machine Learning** | |
+| Propriedade                                    | Dados                                                                                             |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Linguagem / IDE**                             | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) |
+| **Front-End**                                   | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)             |
+| **Bancos de Dados**                             | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
+| **Machine Learning**                           | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
+
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-![ThiagoRalmeida2's github activity graph](https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| .                                                                                                                                                  | .                                                                                                                         |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+||                                                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | ![ThiagoRAlmeida2's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&theme=radical&layout=compact) |
 
 **📫 How to Reach me:**
