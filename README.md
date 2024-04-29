@@ -29,7 +29,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![BEPb's github activity graph](https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 ||                                                                                                                                   |
