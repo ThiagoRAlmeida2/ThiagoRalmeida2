@@ -29,15 +29,12 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+![BEPb's github activity graph](https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 ||                                                                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | ![ThiagoRAlmeida2's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&theme=radical&layout=compact) |
-
-![snake animation](https://github.com/ThiagoRAlmeida2/ThiagoRAlmeida2/blob/output/github-contribution-grid-snake.svg)[
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoRAlmeida2&repo=ThiagoRAlmeida2&theme=react)](https://github.com/ThiagoRAlmeida2/ThiagoRAlmeida2)
 
 **📫 How to Reach me:**
 <p align="left">
