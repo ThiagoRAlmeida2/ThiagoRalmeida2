@@ -58,7 +58,7 @@
 ---
 Se você quiser contribuir com qualquer um dos meus repositórios, será bem-vindo(a)! Estou sempre aberto(a) a novas ideias e colaborações.
 ---
-  *Fique à vontade para entrar em contato comigo para perguntas, sugestões ou apenas para bater um papo. Juntos podemos construir algo incrível! 🚀* 
+  *Fique à vontade para entrar em contato comigo para perguntas, sugestões. Juntos podemos construir algo incrível! 🚀* 
 ---
 
 
