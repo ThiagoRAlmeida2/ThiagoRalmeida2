@@ -30,7 +30,9 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoRAlmeida2&theme=github_dark)
+
 
 <!--   stats + languages -->
 ||                                                                                                                                   |
