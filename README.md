@@ -29,6 +29,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoRAlmeida2&theme=github_dark)
 
 <!--   stats + languages -->
 ||                                                                                                                                   |
@@ -48,12 +49,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThiagoRAlmeida2" alt="ThiagoRAlmeida2" /></a>
 </p>
-
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ThiagoRAlmeida2/ThiagoRAlmeida2&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
