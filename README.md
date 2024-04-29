@@ -51,8 +51,13 @@
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+  *Se você gostou do meu perfil, dê um Star ⭐ no repositório! Ou dê ideias ou opinião.* 
 ---
+Se você quiser contribuir com qualquer um dos meus repositórios, será bem-vindo(a)! Estou sempre aberto(a) a novas ideias e colaborações.
+---
+  *Fique à vontade para entrar em contato comigo para perguntas, sugestões ou apenas para bater um papo. Juntos podemos construir algo incrível! 🚀* 
+---
+
 
 
 ![](assets/Bottom_down.svg)
