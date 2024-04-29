@@ -35,6 +35,9 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | ![ThiagoRAlmeida2's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&theme=radical&layout=compact) |
 
+![GitHub Snake Grid](https://github.com/ThiagoRAlmeida2/snake-grid/blob/output/github-contribution-grid-snake.svg)
+
+
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
