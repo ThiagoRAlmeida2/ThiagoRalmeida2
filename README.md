@@ -13,8 +13,9 @@
 ![](./src/header_.png)
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi+,+eu+sou+Thiago+Ribeiro;+Bem-vindo+ao+meu+perfil!;Eu+sou+estudante+de+programa%C3%A7%C3%A3o;+Gosto+de+f%C3%ADsica;+Tenho+muita+entusiasmo+para+aprender+linguagens+de+back-end+e+frameworks)](https://git.io/typing-svg)
+<!--   my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi+,+eu+sou+Thiago+Ribeiro;+Bem-vindo+ao+meu+perfil!;+Eu+sou+estudante+de+programação;+Gosto+de+física;++Tenho+muito+entusiasmo+para;+aprender+linguagens+de+back-end+e+frameworks)](https://git.io/typing-svg)
+
 
 <!--   my-skils -->
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
