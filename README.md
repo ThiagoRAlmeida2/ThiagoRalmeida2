@@ -18,15 +18,15 @@
 
 
 <!--   my-skils -->
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 60px>
 
-| Propriedade                                    | Dados                                                                                             |
+| Propriedade                                     | Dados                                                                                             |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Linguagem / IDE**                             | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) |
-| **Front-End**                                   | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)             |
-| **Bancos de Dados**                             | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
-| **Machine Learning**                           | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
-| **Controle de Versão**                          | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
+| **Linguagens e IDEs**                            | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) |
+| **Tecnologias de Front-End**                     | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)             |
+| **Bancos de Dados e Armazenamento**               | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
+| **Ferramentas de Machine Learning**               | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
+| **Controle de Versão e Colaboração**               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
 
 
 <!--   GitHub stats graph -->
