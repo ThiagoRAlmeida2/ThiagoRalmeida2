@@ -36,13 +36,15 @@
 
 
 <!--   stats + languages -->
-||                                                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| ![ThiagoRAlmeida2's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&theme=radical&layout=compact) |
+<div align="center"> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=prussian&include&hide_border=true&count_private=true" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&layout=compact&langs_count=7&theme=prussian&hide_border=true" />
+    <img height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
+</div><br>
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="ThiagoRAlmeida2" height="30" width="30" /></a>
 <a href="mailto:thiagoralmeida23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
@@ -61,7 +63,5 @@ Se você quiser contribuir com qualquer um dos meus repositórios, será bem-vin
 ---
   *Fique à vontade para entrar em contato comigo para perguntas, sugestões. Juntos podemos construir algo incrível! 🚀* 
 ---
-
-
 
 ![](assets/Bottom_down.svg)
