@@ -26,6 +26,7 @@
 | **Front-End**                                   | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)             |
 | **Bancos de Dados**                             | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
 | **Machine Learning**                           | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
+| **Controle de Versão**                          | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
 
 
 <!--   GitHub stats graph -->
