@@ -32,14 +32,18 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoRAlmeida2&theme=github_dark)   
+<!--   Profile Summary -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoRAlmeida2&theme=github_dark)
 
-<!--   stats + languages -->
+<!--   GitHub Stats -->
 <div> 
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=prussian&include&hide_border=true&count_private=true" />
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&layout=compact&langs_count=7&theme=prussian&hide_border=true" />
-    <img height="190px" src="http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=prussian&&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" />
-</div><br>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ThiagoRAlmeida2&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRAlmeida2&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
+</div>
+
+<!--   GitHub Streak -->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
 **📫 How to Reach me:**
 <p align="left">
