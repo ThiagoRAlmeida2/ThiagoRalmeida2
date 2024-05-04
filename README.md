@@ -14,7 +14,8 @@
 
 
 <!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi+,+eu+sou+Thiago+Ribeiro;+Bem-vindo+ao+meu+perfil!;+Eu+sou+estudante+de+programação;+Gosto+de+física;++Tenho+muito+entusiasmo+para;+aprender+linguagens+de+back-end+e+frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Thiago+Ribeiro;+Bem-vindo+ao+meu+perfil!;+Eu+sou+um+estudante+apaixonado+por+programação;+Interesses+em+física,+back-end+e+frameworks)](https://git.io/typing-svg)
+
 
 
 <!--   my-skils -->
