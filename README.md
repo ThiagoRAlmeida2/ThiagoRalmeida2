@@ -45,9 +45,10 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
-**📫 How to Reach me:**
+## 📫 How to Reach me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="ThiagoRAlmeida2" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/linkedin.svg" alt="ThiagoRAlmeida2" height="30" width="30" /></a>
 <a href="mailto:thiagoralmeida23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
