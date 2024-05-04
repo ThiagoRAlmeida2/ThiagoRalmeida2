@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/ThiagoRalmeida2/ThiagoRalmeida2?color=blue"></a>
     <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/stargazers"><img src="https://img.shields.io/github/stars/ThiagoRalmeida2/ThiagoRalmeida2.svg?logo=github"></a>
     <a href="https://github.com/ThiagoRAlmeida2/ThiagoRalmeida2/network/members"><img src="https://img.shields.io/github/forks/ThiagoRalmeida2/ThiagoRalmeida2.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ThiagoRALmeida2.ThiagoRAlmeida2" alt="visitors"/>   
