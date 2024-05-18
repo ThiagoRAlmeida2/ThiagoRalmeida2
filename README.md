@@ -34,7 +34,8 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   Profile Summary -->
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoRAlmeida2&theme=github_dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoRAlmeida2&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--   GitHub Stats -->
 <div> 
