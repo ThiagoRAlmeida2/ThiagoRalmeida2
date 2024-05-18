@@ -29,13 +29,8 @@
 | **Ferramentas de Machine Learning**               | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
 | **Controle de Versão e Colaboração**               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
 
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
 <!--   Profile Summary -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoRAlmeida2&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!--   GitHub Stats -->
 <div> 
@@ -44,7 +39,7 @@
 </div>
 
 <!--   GitHub Streak -->
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9)
 
 
 ## 📫 How to Reach me:
